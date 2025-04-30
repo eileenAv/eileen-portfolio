@@ -3,7 +3,7 @@ import './thingstoread.css';
 
 function About() {
   const links = [ /*This is the list of the websites*/
-    { name: 'Ocelot', url: 'https://www.https://en.wikipedia.org/wiki/Ocelot.com' },
+    { name: 'Ocelot', url: 'https://en.wikipedia.org/wiki/Ocelot' },
     { name: 'Tiger', url: 'https://en.wikipedia.org/wiki/Tiger' },
     { name: 'Siamese cat', url: 'https://en.wikipedia.org/wiki/Siamese_cat' },
     { name: 'Bobcat', url: 'https://en.wikipedia.org/wiki/Bobcat' },
