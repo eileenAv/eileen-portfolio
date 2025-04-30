@@ -1,0 +1,51 @@
+.container {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 10px;
+  }
+  
+  .profileImage {
+    width: 150px;
+    height: auto;
+    border-radius: 8px;
+  }
+  
+  .text1 {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    color: palevioletred;
+  }
+  
+  .text {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+  }
+  
+  .shuffle-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    color: white;
+    background-color: palevioletred;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .shuffle-button:hover {
+    background-color: #ffe6f0;
+    outline: 2px solid palevioletred;
+    color: palevioletred;   
+    outline-offset: 4px;
+  }
+  
+  .shuffle-button:active {
+    background-color: #ffe6f0;
+    outline: 2px solid palevioletred;
+    color: palevioletred;   
+    outline-offset: 4px;
+  }
+  
