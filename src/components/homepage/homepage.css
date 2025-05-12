@@ -1,21 +1,31 @@
 .container {
+  align-self: auto;
     display: flex;
     align-items: center;
-    gap: 20px;
+    gap: 30px;
     padding: 10px;
+    margin: 100px;
+  }
+
+  .content{
+    align-items: center;
+    margin: 10px;
   }
   
   .profileImage {
+    display: flex;
+    align-items: center;
     width: 150px;
     height: auto;
     border-radius: 8px;
   }
   
   .text1 {
+    display: flex;
     font-family: Arial, sans-serif;
     font-size: 16px;
     font-weight: bold;
-    color: palevioletred;
+    color: #F2507B;
   }
   
   .text {
@@ -27,7 +37,7 @@
     padding: 10px 20px;
     font-size: 16px;
     color: white;
-    background-color: palevioletred;
+    background-color: #263E75;
     border: none;
     border-radius: 5px;
     cursor: pointer;
@@ -36,16 +46,16 @@
   }
   
   .shuffle-button:hover {
-    background-color: #ffe6f0;
-    outline: 2px solid palevioletred;
-    color: palevioletred;   
+    background-color: #F2507B;
+    outline: 2px solid #F2507B;
+    color: #052440;   
     outline-offset: 4px;
   }
   
   .shuffle-button:active {
-    background-color: #ffe6f0;
-    outline: 2px solid palevioletred;
-    color: palevioletred;   
+    background-color: #F2507B;
+    outline: 2px solid #263E75;
+    color: #F2507B;   
     outline-offset: 4px;
   }
   

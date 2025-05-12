@@ -40,7 +40,7 @@ function About() {
 
   return (
     <div className="hyperlinks-container">
-      <h2>Things to Read</h2>  
+      <h2 className="title">Things to Read</h2>  
       <div className='explanation'>
         <p>These are some links to pages about cats because they are my favorite animal. Press <strong>Tab</strong> to activate keyboard access mode. You can also use <strong>Tab</strong> to navigate between elements in the navbar. You can use the <strong>up</strong> and <strong>down arrows</strong> to navigate between the list of elements and press <strong>Enter</strong> to enter any of the links. </p></div>     
     

@@ -22,9 +22,9 @@ function Homepage() {
 
   return (
     <div className="container">
-      <div className="content">
+     
         <img src="/profilePicture.jpg" className="profileImage" alt="Profile" />
-        
+         <div className="content">
         <h2 className="text1">Hi! Welcome to my page!</h2>
         <p className="text">
           My name is Eileen and I am a senior at UW Bothell. I love cats and I have a cat named Caramel.

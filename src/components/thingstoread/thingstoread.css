@@ -9,7 +9,10 @@
     padding: 0 20px; 
   }
   
- 
+ .title {
+   color: #F2507B;
+  }
+
   .hyperlinks-list {
     list-style-type: none;
     padding: 0;
@@ -24,7 +27,7 @@
 
   .hyperlinks-list a {
     text-decoration: none;
-    color: pink;
+    color: #F2507B;
     font-size: 18px;
     font-weight: bold;
     padding: 8px 16px;
@@ -36,20 +39,22 @@
   
 
   .hyperlinks-list a:hover {
-    color: palevioletred;
-    background-color: #ffe6f0; 
+    color: #32BAD9;
+    background-color: #263E75; 
+    outline: 2px solid #32BAD9;
+    outline-offset: 4px;
   }
   
   
   .hyperlinks-list a:focus {
-    background-color: #ffe6f0;
-    outline: 2px solid palevioletred;
-    color: palevioletred;   
+    background-color: #263E75;
+    outline: 2px solid #32BAD9;
+    color: #32BAD9;   
     outline-offset: 4px;
   }
 
   strong{
-    color: palevioletred;
+    color: #F2507B;
   }
 
  .explanation{
