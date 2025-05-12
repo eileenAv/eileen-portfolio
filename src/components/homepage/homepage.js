@@ -23,7 +23,7 @@ function Homepage() {
   return (
     <div className="container">
      
-        <img src="/profilePicture.jpg" className="profileImage" alt="Profile" />
+        <img src="/profile2.jpg" className="profileImage" alt="Profile" />
          <div className="content">
         <h2 className="text1">Hi! Welcome to my page!</h2>
         <p className="text">
