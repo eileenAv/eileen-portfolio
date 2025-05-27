@@ -20,7 +20,7 @@ function Oilpainting() {
       </header>
       <section className="get-started-section">
         <p>
-          Oil painting has been a good hobby of mine! Here I will tell you about soem of the important steps to getting startet to oil paint. Please Enjoy!</p>
+          Oil painting has been a good hobby of mine! Here I will tell you about some of the important steps to getting startet to oil paint. Please Enjoy!</p>
         <p>There are two sections to this guide: </p>
         <p>
         <a href="#gather-section">Gather Materials </a> </p>
