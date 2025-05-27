@@ -7,6 +7,8 @@ function Navbar() {
     <nav className="navbar">
       <Link to="/" className="nav-link">Home</Link>
       <Link to="/about" className="nav-link">About</Link>
+      <Link to="/oilpainting" className="nav-link">Oil Painting</Link>
+
     </nav>
   );
 }
